@@ -1,0 +1,15 @@
+3.-¿cuál es el resultado de la ejecución?
+	En el caso de crear y dejar el codigo como estaba el nombre de "Rolo" no existe y da un resultado null y todos los demás están
+	de forma correcta 
+
+4.- ¿Que resultado proporciona la tabla al acceder a ellos?
+	cuando se tienen registradas dos personas con el mismo nombre se imprimen los dos, pero solo el segundo es el que te arroja
+	los datos completos, entonces se entiende que la maquina no puede interpretar a que dato te refieres, entonces solo usa el ultimo.
+
+5.-¿es convieniente utilizar el dato de nombrte como calve de acceso a la tabla hash?¿por que?
+	no es conveniente utilizar un nombre, porque es necesaria una clave que sea unica e irrepetible, para poder usarlos de una manera 
+	optima, al haber muchas personas que se llaman igual, esta no sería una opción viable. 
+
+6.-¿que datos utliziarías como clave?¿por que?
+	en este caso se utilizaría el numero de matricula, porque es este codigo unicro e irrepetible, que servirá para la facíl detección
+	del estudiante, esto agiliza todo trabajo, además es muy manipulable y no cambia respecto al numero del cuatrimestre. 
